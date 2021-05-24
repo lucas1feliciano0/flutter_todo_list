@@ -1,5 +1,5 @@
 # Flutter To Do List
-    Basic currency converter made in Flutter
+    Basic to do list made in Flutter
 
 ## Description
 Basic todo list made in Flutter
